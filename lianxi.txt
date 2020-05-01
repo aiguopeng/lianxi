@@ -1,2 +1,10 @@
-11111111111
-2222222222
+
+gti status
+git add .
+git commit -m ' '
+
+ git push --set-upstream origin schedule
+
+
+
+ git remote add origin https://github.com/aiguopeng/lianxi.git
